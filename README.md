@@ -4,4 +4,12 @@
 
  Os fluxos disponíveis são o cadastro de cursos, a listagem dos cursos e a exclusão dos cursos. Sendo o mais crítico o cadastro.
 
+
+Link para casos de teste:
+
+[https://docs.google.com/spreadsheets/d/1CFX2guCKiYRe3q2Pf2lEdwO2Jl5h4vt7e6B5DexAgN8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CFX2guCKiYRe3q2Pf2lEdwO2Jl5h4vt7e6B5DexAgN8/edit?usp=sharing)
+
+Link para vídeos do teste:
+
+
  
