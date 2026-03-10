@@ -1,0 +1,23 @@
+{
+  "name": "desafio-qa-beedoo-2026",
+  "version": "1.0.0",
+  "description": "O objetivo da aplicação é um site para facilitar a busca de cursos de maneira simples e eficiente.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lev1Alves/DESAFIO-QA-BEEDOO-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lev1Alves/DESAFIO-QA-BEEDOO-2026/issues"
+  },
+  "homepage": "https://github.com/Lev1Alves/DESAFIO-QA-BEEDOO-2026#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.4.0"
+  }
+}
